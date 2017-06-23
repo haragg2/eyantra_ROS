@@ -1,7 +1,8 @@
 # eyantra_ROS
-The package contains the ollowing folder of our concern:
 
-    
+E-yantra Robotics competition 2016-17 (Explorer Bot Theme)
+
+The package contains the following folder of our concern:
 
     launch :
 
